@@ -1,5 +1,6 @@
 ## About ME.
-### I'm a `Python developer`.
+### I'm a `developer`.
+
 --- 
 
 ## Tech Stacks
@@ -8,9 +9,10 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-F7DF1E?style=flat-square&logo=Typescript&logoColor=blue"/>
 </p>
 
-### Tools 
+## Tools 
 <p>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
