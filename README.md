@@ -5,12 +5,12 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **[technology or skill you're learning]**
-- 👯 I’m looking to collaborate on **[projects or technologies you're interested in]**
-- 🤔 I’m looking for help with **[something you're working on]**
-- 💬 Ask me about **[topics you're knowledgeable about]**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **[a fun fact about you]**
+- 🌱 I’m currently learning **Python, Go, Rust**
+- 👯 I’m looking to collaborate on **Python**
+- 🤔 I’m looking for help with **Python**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: **xzt______@naver.com**
+- ⚡ Fun fact: **Majored in social welfare**
 
 ## Skills
 
@@ -19,11 +19,11 @@
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Frameworks**:
-  - ![Flask](<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>)
+  - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
   - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  - ![Node.js](<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>)
-  - ![Express](<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 - **Tools**: 
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
