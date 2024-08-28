@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm BHNVX 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/bhnvx?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/bhnvx?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 
