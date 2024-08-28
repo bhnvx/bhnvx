@@ -28,9 +28,9 @@
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bhnvx&show_icons=true&theme=radical)
 
 ## Contact Me
 
-- **LinkedIn**: [김경환](https://www.linkedin.com/in/%EA%B2%BD%ED%99%98-%EA%B9%80-8757ba2b6/)
-- **Blog**: [Tistory](https://bhnvx.tistory.com/)
+- [**LinkedIn**](https://www.linkedin.com/in/%EA%B2%BD%ED%99%98-%EA%B9%80-8757ba2b6/)
+- [**Blog**](https://bhnvx.tistory.com/)
