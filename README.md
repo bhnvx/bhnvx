@@ -32,7 +32,8 @@
   - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
   - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=msazure&logoColor=white)
   - ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+  - ![NCP](https://img.shields.io/badge/NCP-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)
+  
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhnvx&show_icons=true&theme=radical)
